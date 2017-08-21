@@ -3,7 +3,7 @@
   - Summer Internship - [Internship Search](https://www.uber.com/careers/list/?city=all&country=all&keywords=%23univrecruiting&subteam=all&team=all)
   - [Advanced Technology Group](https://www.uber.com/info/atg/)
 
-https://www.glassdoor.com/Interview/Uber-Intern-Interview-Questions-EI_IE575263.0,4_KO5,11.htm
+  - [Glassdoor](https://www.glassdoor.com/Interview/Uber-Intern-Interview-Questions-EI_IE575263.0,4_KO5,11.htm) individual reports of internship interviews.
 
   - [AI Labs](https://www.uber.com/info/ailabs/), previously Geometric Intelligence.
 
