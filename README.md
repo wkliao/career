@@ -6,6 +6,11 @@
   - [Glassdoor](https://www.glassdoor.com/Interview/Uber-Intern-Interview-Questions-EI_IE575263.0,4_KO5,11.htm) individual reports of internship interviews.
 
   - [AI Labs](https://www.uber.com/info/ailabs/), previously Geometric Intelligence.
+    — First goal improve machine learning (research focused). 1) Developing an algorithm that works better than Deep Learning’s backpropagation. 2) Different ways of optimization (small scale).
+    - Second goal improve Uber prime business services (research focused) (e.g. routing, pickup times, matching).
+    - Not just focused on Deep Learning, but AI in general (Probabilistic, Evolutionary Training)
+    - Hiring process: 1) Scientist (based on papers) impact on research field (coding interview). 2) Research engineers (phone call, coding challenge, and onsite/coding interview).
+
 
   - [Glassdoor](https://www.glassdoor.com/Interview/Uber-Software-Engineer-Interview-Questions-EI_IE575263.0,4_KO5,22.htm) individual reports of interview experience, interview application, and difficulty.
 
