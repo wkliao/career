@@ -21,16 +21,16 @@
 
 - ## Airbnb (https://www.airbnb.com)
   - Summer Internship - [Internship Search](https://www.airbnb.com/careers/university)
-  - Contact - vcy@u.northwestern.edu (Please cc lab contact arindam.paul@eecs.northwestern.edu)
+  - Contact - vcy@u.northwestern.edu (Please cc [Arindam](mailto:arindam.paul@eecs.northwestern.edu))
 
 - ## HERE Research (https://www.here.com)
     - Summer Internship - [Internship Search](https://www.linkedin.com/company-beta/3237134/)
-    - Contact - mmas-ud.hussain@u.northwestern.edu (Please cc [lab contact](mailto:arindam.paul@eecs.northwestern.edu))
+    - Contact - mmas-ud.hussain@u.northwestern.edu (Please cc [Arindam](mailto:arindam.paul@eecs.northwestern.edu))
     - Internship Application Process
 
 - ## IBM Watson Research (https://www.ibm.com/watson/)
     - Summer Internship - [Internship Search](https://researchweb.watson.ibm.com/interns/internhiring.shtml/)
-    - Contact - mmas-ud.hussain@u.northwestern.edu (Please cc lab contact arindam.paul@eecs.northwestern.edu)
+    - Contact - mmas-ud.hussain@u.northwestern.edu (Please cc [Arindam](mailto:arindam.paul@eecs.northwestern.edu))
 
 - ## Argonne National Laboratory
   - [Graduate Internships](http://www.anl.gov/education/graduates)
