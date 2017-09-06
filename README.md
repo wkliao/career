@@ -48,6 +48,9 @@
 - ## Fidelity
   - [All Jobs](https://jobs.fidelity.com/apply-now/search-jobs.html)
 
+- ## Linkedin Contacts
+  - [Arindam Paul](https://www.linkedin.com/in/arndmpaul/)
+
 - ## Interesting Links
     - [Social Sentiment at Fidelity](https://www.fidelity.com/learning-center/tools-demos/research-tools/social-sentiment-research-video)
     - [Citadel hires new head of artificial intelligence](https://jobs.fidelity.com/apply-now/search-jobs.html)
