@@ -25,6 +25,8 @@
 - ## HERE Research (https://www.here.com)
     - Summer Internship - [Internship Search](https://www.linkedin.com/company-beta/3237134/)
 
+- ## IBM Watson (https://www.here.com)
+    - Summer Internship - [Internship Search](https://researchweb.watson.ibm.com/interns/internhiring.shtml/)
 
 - ## Argonne National Laboratory
   - [Graduate Internships](http://www.anl.gov/education/graduates)
