@@ -19,8 +19,12 @@
 
   - [Paysa](https://www.paysa.com/salaries/uber) Uber salary reports.
 
-- ## Airbnb (https://www.uber.com)
+- ## Airbnb (https://www.here.com)
   - Summer Internship - [Internship Search](https://www.airbnb.com/careers/university)
+
+- ## HERE Research (https://www.airbnb.com)
+    - Summer Internship - [Internship Search](https://www.linkedin.com/company-beta/3237134/)
+
 
 - ## Argonne National Laboratory
   - [Graduate Internships](http://www.anl.gov/education/graduates)
