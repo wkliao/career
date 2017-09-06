@@ -29,7 +29,7 @@
 
 - ## IBM Watson Research (https://www.ibm.com/watson/)
     - Summer Internship - [Internship Search](https://researchweb.watson.ibm.com/interns/internhiring.shtml/)
-    - Contact - mmas-ud.hussain@u.northwestern.edu(Please cc lab contact arindam.paul@eecs.northwestern.edu)
+    - Contact - mmas-ud.hussain@u.northwestern.edu (Please cc lab contact arindam.paul@eecs.northwestern.edu)
 
 - ## Argonne National Laboratory
   - [Graduate Internships](http://www.anl.gov/education/graduates)
