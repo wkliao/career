@@ -46,3 +46,16 @@
 - ## Interesting Links
     - [Social Sentiment at Fidelity](https://www.fidelity.com/learning-center/tools-demos/research-tools/social-sentiment-research-video)
     - [Citadel hires new head of artificial intelligence](https://jobs.fidelity.com/apply-now/search-jobs.html)
+
+- ## Other Companies
+    - Twitter
+    - Spotify
+    - Quora
+    - Dropbox
+    - Groupon/eBay
+    - Yelp/GrubHub
+    - EA Sports
+    - Car companies: Tesla, Ford, Daimler, Toyota, Honda
+    - Banking: Chase, Capital One, KPMG, Deloitte
+    - Insurance: Hertz, Allstate
+    - Others: Bosch, Target, Adobe, Salesforce, Boeing
