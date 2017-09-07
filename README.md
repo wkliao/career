@@ -51,6 +51,7 @@
 
 - ## Linkedin Contacts
   - [Arindam Paul](https://www.linkedin.com/in/arndmpaul/)
+  - [Qiao Kang](https://www.linkedin.com/in/qiao-kang-nu)
 
 - ## Interesting Links
     - [Social Sentiment at Fidelity](https://www.fidelity.com/learning-center/tools-demos/research-tools/social-sentiment-research-video)
