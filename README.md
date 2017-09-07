@@ -53,6 +53,7 @@
   - [Arindam Paul](https://www.linkedin.com/in/arndmpaul/)
   - [Qiao Kang](https://www.linkedin.com/in/qiao-kang-nu)
   - [Kaiyuan Hou](https://www.linkedin.com/in/kaiyuan-hou-87955292/)
+  - [Reda Al-Bahrani](https://www.linkedin.com/in/redaalbahrani/)
 
 - ## Interesting Links
     - [Social Sentiment at Fidelity](https://www.fidelity.com/learning-center/tools-demos/research-tools/social-sentiment-research-video)
