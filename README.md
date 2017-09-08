@@ -63,6 +63,7 @@
   - [Kaiyuan Hou](https://www.linkedin.com/in/kaiyuan-hou-87955292/)
   - [Reda Al-Bahrani](https://www.linkedin.com/in/redaalbahrani/)
   - [Dipendra Jha](https://www.linkedin.com/in/dipendra009/)
+  - [Sunwoo Lee](https://www.linkedin.com/in/sunwoo-lee-90a7308a/)
 
 - ## Interesting Links
     - [Social Sentiment at Fidelity](https://www.fidelity.com/learning-center/tools-demos/research-tools/social-sentiment-research-video)
