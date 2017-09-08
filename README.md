@@ -65,6 +65,7 @@
   - [Dipendra Jha](https://www.linkedin.com/in/dipendra009/)
   - [Sunwoo Lee](https://www.linkedin.com/in/sunwoo-lee-90a7308a/)
   - [Fei Zhao](https://www.linkedin.com/in/fei-zhao-530141113/)
+  - [Steve Rangel](https://www.linkedin.com/in/esteban-steve-rangel-7205974b/)
 
 - ## Interesting Links
     - [Social Sentiment at Fidelity](https://www.fidelity.com/learning-center/tools-demos/research-tools/social-sentiment-research-video)
