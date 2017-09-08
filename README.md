@@ -49,11 +49,20 @@
 - ## Fidelity
   - [All Jobs](https://jobs.fidelity.com/apply-now/search-jobs.html)
 
+- ## Facebook
+  - [Engineering Internships] (https://www.facebook.com/careers/university/internships/engineering)
+    - [Software Engineer, PhD Intern/Co-op (Machine Learning)] (https://www.facebook.com/careers/jobs/a0I1200000LT7EUEA1/)
+    - [Research Intern (AI)] (https://www.facebook.com/careers/jobs/a0I1200000LT6fpEAD/)
+    - [Core Data Science, PhD Intern/Co-op (2018)](https://www.facebook.com/careers/jobs/a0I1200000LTJpdEAH/)
+    - [Data Scientist, Analytics, Intern] (https://www.facebook.com/careers/jobs/a0I1200000LT6x8EAD/)
+    
+
 - ## Linkedin Contacts
   - [Arindam Paul](https://www.linkedin.com/in/arndmpaul/)
   - [Qiao Kang](https://www.linkedin.com/in/qiao-kang-nu)
   - [Kaiyuan Hou](https://www.linkedin.com/in/kaiyuan-hou-87955292/)
   - [Reda Al-Bahrani](https://www.linkedin.com/in/redaalbahrani/)
+  - [Dipendra Jha] (https://www.linkedin.com/in/dipendra009/)
 
 - ## Interesting Links
     - [Social Sentiment at Fidelity](https://www.fidelity.com/learning-center/tools-demos/research-tools/social-sentiment-research-video)
