@@ -41,7 +41,7 @@
     - Research intern overview - (http://research.nvidia.com/careers/intern)
     - Job posting - [https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs)
 
-- ## Intel ()
+- ## Intel
     - [Job searching] - (http://jobs.intel.com/)
       - [Internship] - (http://jobs.intel.com/ListJobs/ByCustom/Intel-Job-Type/Keyword-Intern/)
       - [Regular jobs] - (http://jobs.intel.com/ListJobs/ByCustom/Intel-Job-Category/Keyword-Engineering/)
