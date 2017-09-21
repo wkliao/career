@@ -41,6 +41,11 @@
     - Research intern overview - (http://research.nvidia.com/careers/intern)
     - Job posting - [https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs)
 
+- ## Intel ()
+    - [Job searching] - (http://jobs.intel.com/)
+      - [Internship] - (http://jobs.intel.com/ListJobs/ByCustom/Intel-Job-Type/Keyword-Intern/)
+      - [Regular jobs] - (http://jobs.intel.com/ListJobs/ByCustom/Intel-Job-Category/Keyword-Engineering/)
+      
 - ## Jump Trading
   - [Jobs](http://www.jumptrading.com/jobs.html), search using "intern"
 
@@ -59,7 +64,6 @@
     - [Research Intern (AI)](https://www.facebook.com/careers/jobs/a0I1200000LT6fpEAD/)
     - [Core Data Science, PhD Intern/Co-op (2018)](https://www.facebook.com/careers/jobs/a0I1200000LTJpdEAH/)
     - [Data Scientist, Analytics, Intern](https://www.facebook.com/careers/jobs/a0I1200000LT6x8EAD/)
-    
 
 - ## Linkedin Contacts
   - [Arindam Paul](https://www.linkedin.com/in/arndmpaul/)
