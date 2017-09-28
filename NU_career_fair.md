@@ -1,14 +1,14 @@
 # Fall 2017 Internship & Job Fair
 
+URL: https://nuswe1.wixsite.com/nu-swe/iday
+
+- **When**: Thursday, October 19, 4-9pm
+- **Where**: Hilton Garden Inn
+
 URL: http://www.northwestern.edu/careers/job-intern-prep/career-fair
 
 - **When**: Tuesday, September 26 and Wednesday September 27  12-4pm
 - **Where**: Norris Center, 2nd Floor
-
-URL: https://github.com/wkliao/career.git
-
-- **When**: Thursday, October 19, 4-9pm
-- **Where**: Hilton Garden Inn
 
 
 ## Preparing yourself before, during & after the Fair
