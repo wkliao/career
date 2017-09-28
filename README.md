@@ -66,7 +66,14 @@
     - [Data Scientist, Analytics, Intern](https://www.facebook.com/careers/jobs/a0I1200000LT6x8EAD/)
 
 - ## Microsoft
-  - [All jobs](https://careers.microsoft.com)
+  - [All Jobs](https://careers.microsoft.com)
+  - [Internship Program](https://careers.microsoft.com/students/internships)
+    - [Data & applied sciences](https://careers.microsoft.com/students/apply?rg=US&jf=8&el=2&el=3&el=5&jt=1&jt=2)
+    - [Develpoment](https://careers.microsoft.com/students/apply?rg=US&jf=9&el=2&el=3&el=5&jt=1&jt=2)
+  - [Microsoft Research](https://www.microsoft.com/en-us/research/)
+    - [Basic Info](https://www.microsoft.com/en-us/research/about/)
+    - [Career](https://www.microsoft.com/en-us/research/careers/)
+    - [Career FAQ](https://careers.research.microsoft.com/FAQ)
 
 - ## Linkedin Contacts
   - [Arindam Paul](https://www.linkedin.com/in/arndmpaul/)
