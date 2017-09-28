@@ -65,6 +65,9 @@
     - [Core Data Science, PhD Intern/Co-op (2018)](https://www.facebook.com/careers/jobs/a0I1200000LTJpdEAH/)
     - [Data Scientist, Analytics, Intern](https://www.facebook.com/careers/jobs/a0I1200000LT6x8EAD/)
 
+- ## Microsoft
+  - [All jobs](https://careers.microsoft.com)
+
 - ## Linkedin Contacts
   - [Arindam Paul](https://www.linkedin.com/in/arndmpaul/)
   - [Qiao Kang](https://www.linkedin.com/in/qiao-kang-nu)
