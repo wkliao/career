@@ -75,6 +75,14 @@
     - [Career](https://www.microsoft.com/en-us/research/careers/)
     - [Career FAQ](https://careers.research.microsoft.com/FAQ)
 
+- ## Google
+  - [All Jobs](https://careers.google.com/)
+    - [Software Engineering Intern, PhD, Summer 2018 (Open)](https://careers.google.com/jobs#!t=jo&jid=/google/software-engineering-intern-phd-summer-320-n-morgan-st-600-chicago-il-usa-2792910613&)
+    - [Data Scientist/Quantitative Analyst, Engineering](https://careers.google.com/jobs#!t=jo&jid=/google/data-scientist-quantitative-analyst-901-cherry-ave-san-bruno-ca-usa-2459700631&f=true&)
+    - [Software Engineer, Machine Learning](https://careers.google.com/jobs#!t=jo&jid=/google/software-engineer-machine-learning-1600-amphitheatre-pkwy-mountain-view-ca-247340035&)
+    - [Cloud Machine Learning Research Scientist](https://careers.google.com/jobs#!t=jo&jid=/google/cloud-machine-learning-research-1600-amphitheatre-pkwy-mountain-view-ca-2514440407&)
+    - [Research Scientist, Machine Learning and Intelligence](https://careers.google.com/jobs#!t=jo&jid=/google/research-scientist-machine-learning-and-76-9th-ave-new-york-ny-usa-1749440006&)
+
 - ## Linkedin Contacts
   - [Arindam Paul](https://www.linkedin.com/in/arndmpaul/)
   - [Qiao Kang](https://www.linkedin.com/in/qiao-kang-nu)
