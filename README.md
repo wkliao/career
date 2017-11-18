@@ -37,6 +37,9 @@
   - [Postdoctoral](http://www.anl.gov/careers/apply-job/postdoctoral-applicants)
   - [Summer Argonne Students' Symposium](http://www.mcs.anl.gov/research/LANS/events/listn/previous.php)
 
+- ## NERSC
+  - Nov. 17, 2017. DAS group at NERSC is looking for a Machine Learning Engineer, the job announcement can be found in https://lbl.referrals.selectminds.com/jobs/machine-learning-engineer-206
+
 - ## NVIDIA (http://www.nvidia.com/page/home.html)
     - Research intern overview - (http://research.nvidia.com/careers/intern)
     - Job posting - [https://nvidia.wd5.myworkdayjobs.com/en-US/UniversityJobs)
