@@ -1,4 +1,6 @@
 # Job opportunities for CUCIS students
+- ## Prepare for Job Interview
+  - [LeetCode](https://leetcode.com) is a platform for preparing technical coding interviews. Pick from an expanding library of more than 450 questions, code and submit your solution to see if you have solved it correctly.
 - ## Uber (https://www.uber.com)
   - Summer Internship - [Internship Search](https://www.uber.com/careers/list/?city=all&country=all&keywords=%23univrecruiting&subteam=all&team=all)
   - [Advanced Technology Group](https://www.uber.com/info/atg/)
